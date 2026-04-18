@@ -9,10 +9,10 @@ export const siteConfig = {
     gst: "33AGPPJ0853R1ZU",
   },
   contact: {
-    phone: "+91 XXXXX XXXXX",
-    phoneDisplay: "+91 XXXXX XXXXX",
+    phone: "+919841477662",
+    phoneDisplay: "+91 98414 77662",
     email: "info@crownconsultants.in",
-    whatsapp: "91XXXXXXXXXX",
+    whatsapp: "919841477662",
     address: {
       line1: "Behind Dunlop",
       line2: "Thiruverkadu, Ayapakkam",
@@ -26,7 +26,7 @@ export const siteConfig = {
     googleMapsEmbed: "PASTE_GOOGLE_MAPS_EMBED_URL_HERE",
   },
   social: {
-    linkedin: "https://www.linkedin.com/company/crown-consultants",
+    linkedin: "https://www.linkedin.com/company/crownconsultants/?viewAsMember=true",
     youtube: "",
     instagram: "",
     facebook: "",
