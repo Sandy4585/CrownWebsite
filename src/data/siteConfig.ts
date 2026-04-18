@@ -11,7 +11,7 @@ export const siteConfig = {
   contact: {
     phone: "+919841477662",
     phoneDisplay: "+91 98414 77662",
-    email: "info@crownconsultants.in",
+    email: "crowngold2011@gmail.com",
     whatsapp: "919841477662",
     address: {
       line1: "Behind Dunlop",
